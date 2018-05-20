@@ -2517,7 +2517,7 @@ body {
 }
 .cid-qR8Nl0pJSs {
   padding-top: 135px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #f9f9f9;
 }
 .cid-qR8Nl0pJSs h2 {
@@ -2601,6 +2601,10 @@ body {
   font-size: 72px;
   color: #707070;
 }
+.cid-qRpMt89Y82 .card-title,
+.cid-qRpMt89Y82 .card-img {
+  text-align: center;
+}
 .cid-qRpMuF1ffk {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -2620,6 +2624,10 @@ body {
 .cid-qRpMuF1ffk .card-img span {
   font-size: 72px;
   color: #707070;
+}
+.cid-qRpMuF1ffk .card-title,
+.cid-qRpMuF1ffk .card-img {
+  text-align: center;
 }
 .cid-qRpMrlkz6X {
   padding-top: 60px;
@@ -3066,8 +3074,8 @@ body {
 }
 .cid-qRpMSGONTr {
   padding-top: 105px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background5.jpg");
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/drinks-2000x1333.jpg");
 }
 .cid-qRpNf9Yps5 {
   padding-top: 30px;
@@ -4138,7 +4146,7 @@ body {
 }
 .cid-qReK56xT82 {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 75px;
   background-image: url("../../../assets/images/mbr-9-1620x1080.jpg");
 }
 .cid-qRmIvtoTpV {
@@ -5598,7 +5606,7 @@ body {
 .cid-qR8HnJ8KYV {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qR8HnJ8KYV .mbr-section-subtitle {
   color: #000000;
@@ -5945,6 +5953,14 @@ body {
 }
 .cid-qRpNSmpK43 .form-text {
   text-align: center;
+}
+.cid-qSzgOCJUgV {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qSzgOCJUgV .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-qRvNgUW9lC .dropdown-item:before {
   font-family: MobiriseIcons !important;
@@ -6930,7 +6946,7 @@ body {
 .cid-qReGVdEksI {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/043.jpg");
+  background-image: url("../../../assets/images/041.jpg");
 }
 .cid-qReGVdEksI .header-text {
   display: flex;
